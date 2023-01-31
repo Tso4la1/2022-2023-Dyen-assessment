@@ -17,5 +17,5 @@
 #### JAVASCRIPT ASSESSMENTS
 -Silly story generator [https://tso4la1.github.io/Silly-story-generator/];
 -Image gallery [https://tso4la1.github.io/Image-gallery/];
--Adding features to our bouncing balls demo [ https://tso4la1.github.io/Bouncing-balls-demo/];
--sequencing animations []
+-Adding features to our bouncing balls demo [ https://tso4la1.github.io/bouncing-ball-demo/];
+-sequencing animations [ https://tso4la1.github.io/sequence-animation/]
