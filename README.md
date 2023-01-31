@@ -10,4 +10,12 @@
 -Styling a biography page [ https://tso4la1.github.io/Styling-a-biography-page/];
 -Fundamental CSS comprehension [https://tso4la1.github.io/Fundamental-css-comprehension/];
 -Creating fancy letterheaded paper [https://tso4la1.github.io/Creating-fancy-letterheaded-paper/];
--A cool-looking box []
+-A cool-looking box [https://tso4la1.github.io/cool-looking-box1/];
+-Typesetting a community school homepage [https://tso4la1.github.io/Typesetting-a-homepage/];
+
+
+#### JAVASCRIPT ASSESSMENTS
+-Silly story generator [https://tso4la1.github.io/Silly-story-generator/];
+-Image gallery [https://tso4la1.github.io/Image-gallery/];
+-Adding features to our bouncing balls demo [ https://tso4la1.github.io/Bouncing-balls-demo/];
+-sequencing animations []
